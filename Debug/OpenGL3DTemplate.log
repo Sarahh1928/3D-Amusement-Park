@@ -1,0 +1,5 @@
+﻿  OpenGL3DTemplate.cpp
+S:\GUC\Semester 7\Graphics\OpenGL3DTemplate\OpenGL3DTemplate.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+S:\GUC\Semester 7\Graphics\OpenGL3DTemplate\OpenGL3DTemplate.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> S:\GUC\Semester 7\Graphics\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
